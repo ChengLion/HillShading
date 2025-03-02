@@ -1,6 +1,6 @@
 # HillShading
 输入DEM数据计算山地阴影/Input DEM data to calculate mountain shadow  
-    该程序在完成本科毕业论文时制作，实现了基于规则格网DEM数据生成晕渲图的基础功能。  
+    该程序在完成本科毕业论文时制作，实现了基于规则格网DEM数据生成晕渲图的基础功能，并为论文最后的晕渲图效果对比提供了数据。  
 运行效果展示：
 ![image](https://github.com/ChengLion/HillShading/blob/main/Pic%26GIF/HillShadow_BhTzePossd.gif)
   
