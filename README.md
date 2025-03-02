@@ -8,10 +8,10 @@
 ![image](https://github.com/ChengLion/HillShading/blob/main/Pic%26GIF/HillShadow_HAUdqGnVCd.png)
 
 ColorFile文件夹中保存的.color色带文件为明码：  
-![image](https://github.com/ChengLion/HillShading/blob/main/Pic%26GIF/notepad_fXfNnx6uXm.png)
+![image](https://github.com/ChengLion/HillShading/blob/main/Pic%26GIF/notepad_fXfNnx6uXm.png)  
 首个数字为高程值，后四个数字为色带RGBA值。
 
-程序晕渲效果展示：
+程序晕渲效果展示：  
 ![image](https://github.com/ChengLion/HillShading/blob/main/Pic%26GIF/FengDu_grey.tif)
   
 ![image](https://github.com/ChengLion/HillShading/blob/main/Pic%26GIF/FengDu_color.tif)
